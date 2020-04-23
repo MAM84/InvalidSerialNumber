@@ -8,6 +8,8 @@ Pour définir si un numéro de série est valide, il doit respecter plusieurs r�
 - Le 2e groupe de chiffres est composé des 4 derniers chiffres du 3e groupe multiplié par 7
 - La somme des 4 groupes de chiffres donne forcément un multiple de 10000.
 
+En plus de cela, vous afficherez des informations au développeur à l'aide de console.log. Si le numéro de série est invalide, vous indiquerez au développeur quelle est la première règle à avoir été enfreinte.
+
 Quelques numéro de séries valides :
 2806-2574-6082-8538
 6730-2632-0376-0262
